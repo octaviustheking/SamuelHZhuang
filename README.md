@@ -35,6 +35,11 @@ Game Dev • Web Dev • Simulations
 **Email:** samuelzyay@gmail.com 
 **Discord:** sammythebammy  
 
+<img src="https://count.getloli.com/@:booru-vp
+" alt=":booru-vp
+" />
+
+
 
 ---
 
