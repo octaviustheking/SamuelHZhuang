@@ -1,6 +1,6 @@
 # 👋 Hey, I'm SamZua!
 <div id="header" align="center">
-<img src="https://c.tenor.com/8kgu0KBEZCoAAAAd/chuuya-nakahara-chuuya.gif" width="100"/>
+<img src="https://c.tenor.com/8kgu0KBEZCoAAAAd/chuuya-nakahara-chuuya.gif" width="300"/>
 </div>
 ### Bad Developer • Bad Problem Solver • Never Learning
 
@@ -34,7 +34,7 @@ Game Dev • Web Dev • Simulations
 
 **Email:** samuelzyay@gmail.com 
 **Discord:** sammythebammy  
-**GitHub:** https://github.com/YOUR_USERNAME
+
 
 ---
 
