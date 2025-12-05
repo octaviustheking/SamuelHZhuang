@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src="https://c.tenor.com/8kgu0KBEZCoAAAAd/chuuya-nakahara-chuuya.gif" width="300"/>
 </div>
-### Bad Developer • Bad Problem Solver • Never Learning
+<h3>Bad Developer • Bad Problem Solver • Never Learning</h3>
 
 Welcome to my GitHub profile! I do  projects involving C++,  web development, and other stuff.
 
